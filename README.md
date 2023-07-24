@@ -1,8 +1,7 @@
-## Titulo
+## Git_Github 2
 
-## Subtitulo
+## ¡Curso Intersemestral 2024-1!
 
-_Ejemplo de texto_
 
 ## Listados
 
@@ -11,6 +10,5 @@ _Ejemplo de texto_
 2. Segunfo elemento
 - Otra forma de poner una lista
 
-> Este es un ejemplo de un citado O para hacernotas
 
-![Asuka](https://wallhaven.cc/w/1k8lmg)
+![Git_GitHub_Logo](https://proteco.fi-b.unam.mx/img/logos/Imagengit%20I.png)
