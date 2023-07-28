@@ -10,7 +10,7 @@ Es una funcionalidad de github, en la que un colaborador pide que revisen sus ca
 |:----:|:--------:|:-------:|
 |1| Arthur | Enfrijoaldas |
 |2|     -     | -- |
-|3|     -     | -- |
+|3| Antonio | Paella |
 
 
 ## Mensaje :email:
@@ -18,4 +18,4 @@ Es una funcionalidad de github, en la que un colaborador pide que revisen sus ca
 |:----:|:--------:|
 |1|Qué tal estoy feliz de usar github|
 |2|             --          |
-|3|             --          |
+|3| Aquí tomando clase de git hub |
