@@ -1,5 +1,5 @@
 
-# ¡Curso Intersemestral 2024-1!x
+# ¡Curso Intersemestral 2024-1! :)
 
 # Práctica de Pull Request ⭐⭐⭐
 Es una funcionalidad de github, en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master
