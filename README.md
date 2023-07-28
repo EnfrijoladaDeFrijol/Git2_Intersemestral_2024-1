@@ -9,7 +9,7 @@ Es una funcionalidad de github, en la que un colaborador pide que revisen sus ca
 |**N°**|**Nombre**|**Comida favorita**|
 |:----:|:--------:|:-------:|
 |1| Arthur | Enfrijoaldas |
-|2|     -     | -- |
+|2|     Fabi     | Tacos |
 |3|     -     | -- |
 
 
@@ -17,5 +17,5 @@ Es una funcionalidad de github, en la que un colaborador pide que revisen sus ca
 |**N°**|**Mensaje**|
 |:----:|:--------:|
 |1|Qué tal estoy feliz de usar github|
-|2|             --          |
+|2|             Me siento super!!          |
 |3|             --          |
