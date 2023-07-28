@@ -1,14 +1,21 @@
-## Git_Github 2
 
-## ¡Curso Intersemestral 2024-1!
+# ¡Curso Intersemestral 2024-1!
 
-
-## Listados
-
-1. Primer elemento
-
-2. Segunfo elemento
-- Otra forma de poner una lista
+# Práctica de Pull Request ⭐⭐⭐
+Es una funcionalidad de github, en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master
 
 
-![Git_GitHub_Logo](https://proteco.fi-b.unam.mx/img/logos/Imagengit%20I.png)
+## Nombres 🌝
+|**N°**|**Nombre**|**Comida favorita**|
+|:----:|:--------:|:-------:|
+|1| Arthur | Enfrijoaldas |
+|2|     -     | -- |
+|3|     -     | -- |
+
+
+## Mensaje :email:
+|**N°**|**Mensaje**|
+|:----:|:--------:|
+|1|Qué tal estoy feliz de usar github|
+|2|             --          |
+|3|             --          |
