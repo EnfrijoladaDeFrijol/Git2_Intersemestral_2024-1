@@ -11,6 +11,7 @@ Es una funcionalidad de github, en la que un colaborador pide que revisen sus ca
 |1| Arthur | Enfrijoaldas |
 |2|     Fabi     | Tacos |
 |3| Antonio | Paella |
+|4| - | - |
 
 
 ## Mensaje :email:
@@ -19,3 +20,4 @@ Es una funcionalidad de github, en la que un colaborador pide que revisen sus ca
 |1|Qué tal estoy feliz de usar github|
 |2|             Me siento super!!          |
 |3| Aquí tomando clase de git hub |
+|4| - |
