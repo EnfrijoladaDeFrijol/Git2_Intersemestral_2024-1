@@ -13,7 +13,7 @@ Es una funcionalidad de github, en la que un colaborador pide que revisen sus ca
 |1| Arthur | Enfrijoaldas |
 |2|   |   |
 |3|   |   |
-|4|   |   |
+|4|Fabi  |  Rosa |
 |5|   |   |
 |6|   |   |
 |7|   |   |
