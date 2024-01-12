@@ -14,7 +14,7 @@ Es una funcionalidad de github, en la que un colaborador pide que revisen sus ca
 |2|   |   |
 |3|   |   |
 |4|   |   |
-|5|   |   |
+|5| Gael  | Naranja  |
 |6|   |   |
 |7|   |   |
 |8|   |   |
