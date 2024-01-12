@@ -11,10 +11,9 @@ Es una funcionalidad de github, en la que un colaborador pide que revisen sus ca
 |**N°**|**Nombre**|**Color favorito**|
 |:----:|:--------:|:-------:|
 |1| Arthur | Enfrijoaldas |
-|2|   |   |
+|2| Jose   | Azul         |
 |3| Fernando  | Azul  |
-|4|   |   |
-|5|   |   |
+|4|Fabi  |  Rosa |
 |6|   |   |
 |7|   |   |
 |8|   |   |
