@@ -1,23 +1,24 @@
 
 # ¡Curso Intersemestral 2024-1! :)
 
-# Práctica de Pull Request ⭐⭐⭐
+# Actividad de respaso ⭐⭐⭐
+## Haremos uso de Pull Request
 Es una funcionalidad de github, en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master
 
+<br>
 
 ## Nombres 🌝
-|**N°**|**Nombre**|**Comida favorita**|
+|**N°**|**Nombre**|**Color favorito**|
 |:----:|:--------:|:-------:|
 |1| Arthur | Enfrijoaldas |
-|2|     Fabi     | Tacos |
-|3| Antonio | Paella |
-|4| Ángel | Milanesas |
+|2|   |   |
+|3|   |   |
+|4|   |   |
+|5|   |   |
+|6|   |   |
+|7|   |   |
+|8|   |   |
+|9|   |   |
+|10|  |   |
 
 
-## Mensaje :email:
-|**N°**|**Mensaje**|
-|:----:|:--------:|
-|1|Qué tal estoy feliz de usar github|
-|2|             Me siento super!!          |
-|3| Aquí tomando clase de git hub |
-|4| Ya le entendí a los commits :) |
